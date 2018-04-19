@@ -23,8 +23,8 @@
         "display7Size": 1.06,
         "display4Font": "Open Sans",
         "display4Size": 0.875,
-        "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
@@ -40,7 +40,7 @@
     "versionFirst": "4.5.2",
     "uniqCompNum": 426,
     "versionPublish": "4.7.1",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-2-128x58.png",
+    "favicon": "@PROJECT_PATH@/assets/images/custom-logo-128x116.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
